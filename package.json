@@ -10,6 +10,6 @@
   "author": "Kevin Lanzon <kevin.lanzon@healthera.co.uk>",
   "license": "ISC",
   "dependencies": {
-    "express": "4.16.2"
+    "express": "4.19.2"
   }
 }
